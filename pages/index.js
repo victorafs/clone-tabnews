@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Corrigindo o projeto magnânimo</h1>
+    return <h1>Inicio do projeto do TabNEWS aguarde!</h1>
 }
 
 export default Home;
